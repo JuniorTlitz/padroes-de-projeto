@@ -1,4 +1,4 @@
-from calculo_imposto import TaxStrategy
+from tax_calculator import TaxStrategy
 
 
 class SalesTax(TaxStrategy):
